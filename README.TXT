@@ -1,5 +1,6 @@
-=--Disable Wandering Trader Datapack--=
-a datapack that just changes gamerule to disable the wandering trader spawn on load
+====----Disable Wandering Trader Datapack----====
+
+a datapack that just automatically changes the gamerule to disable the wandering trader spawn on load
 
 Minecraft Version : 1.19.2
 
